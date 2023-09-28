@@ -1,6 +1,4 @@
 # Camouflage-VideoFiles
-Here is a possible README file for your code, with some emojis added. I hope you like it. 😊
-
 # Random Folder and Video Generator 📁🎥
 
 This is a Python script that creates a random folder structure with blank video files in it. It can be used for testing purposes or just for fun.
